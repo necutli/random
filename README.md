@@ -1,0 +1,1 @@
+Programa echo en nodejs que genera un numero aleatorio, determina si es mayor o menor a 0,5 y lo muestra por consola
